@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Vitrine MIX](https://github.com/Iniciativa-PRO/vitrine-mix/)
 
-- 🌱 I’m currently learning **Java and Django**
+- 🌱 I’m currently and always learning **Java and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlucios](https://github.com/carlucios)
 
