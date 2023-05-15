@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlucio</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Vitrine MIX](https://github.com/Iniciativa-PRO/vitrine-mix/)
+- 🔭 I’m currently working on [Tech Challenge FIAP]([https://github.com/rcsim/tech-challenge])
 
 - 🌱 I’m currently and always learning **Python and Java**
 
