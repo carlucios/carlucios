@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tech Challenge FIAP](https://github.com/rcsim/tech-challenge)
 
-- 🌱 I’m currently and always learning **Python and Java**
+- 🌱 I’m currently and always learning **Python, React and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlucios](https://github.com/carlucios)
 
