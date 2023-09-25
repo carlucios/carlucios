@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlucio</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Tech Challenge FIAP](https://github.com/rcsim/tech-challenge)
+- 🔭 I’m currently working on [Tech Challenge FIAP](https://github.com/rcsim/tech-challenge-fase3)
 
 - 🌱 I’m currently and always learning **Python, React and Java**
 
