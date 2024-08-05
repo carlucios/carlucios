@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlucio</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Tech Challenge FIAP](https://github.com/rcsim/tech-challenge-fase3)
+- 🔭 I’m currently working on [Ruby On Rails Restful App](https://github.com/carlucios/WebAppRubyOnRails).
 
-- 🌱 I’m currently and always learning **Python, React and Java**
+- 🌱 I’m currently and always learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlucios](https://github.com/carlucios)
 
