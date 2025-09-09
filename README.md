@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Carlucio</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Ruby On Rails Restful App](https://github.com/carlucios/WebAppRubyOnRails).
+- 🔭 I’m currently working on [Ruby On Rails Restful App](https://github.com/Saiiru/ada-commerce).
 
-- 🌱 I’m currently and always learning **Ruby on Rails**
+- 🌱 I’m currently and always learning **Java/Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlucios](https://github.com/carlucios)
 
-- 💬 Ask me about **SQL, Python and Machine Leraning**
+- 💬 Ask me about **RoR, SQL, Python and Machine Leraning**
 
 - 📫 How to reach me **carlucios@gmail.com**
 
