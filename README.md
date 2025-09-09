@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlucio</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Ruby On Rails Restful App](https://github.com/Saiiru/ada-commerce).
+- 🔭 I’m currently working on [Cognizant | DiversAbility](https://comunidade.ada.tech/programas/cognizant-diversability).
 
 - 🌱 I’m currently and always learning **Java/Spring**
 
